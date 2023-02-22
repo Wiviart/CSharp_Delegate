@@ -1,0 +1,15 @@
+G:\My Drive\PROGRAMING\C#\2023.02.17\ArrayList\obj\Debug\net7.0\ArrayList.csproj.AssemblyReference.cache
+G:\My Drive\PROGRAMING\C#\2023.02.17\ArrayList\obj\Debug\net7.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\PROGRAMING\C#\2023.02.17\ArrayList\obj\Debug\net7.0\ArrayList.AssemblyInfoInputs.cache
+G:\My Drive\PROGRAMING\C#\2023.02.17\ArrayList\obj\Debug\net7.0\ArrayList.AssemblyInfo.cs
+G:\My Drive\PROGRAMING\C#\2023.02.17\ArrayList\obj\Debug\net7.0\ArrayList.csproj.CoreCompileInputs.cache
+G:\My Drive\PROGRAMING\C#\2023.02.17\ArrayList\bin\Debug\net7.0\ArrayList.exe
+G:\My Drive\PROGRAMING\C#\2023.02.17\ArrayList\bin\Debug\net7.0\ArrayList.deps.json
+G:\My Drive\PROGRAMING\C#\2023.02.17\ArrayList\bin\Debug\net7.0\ArrayList.runtimeconfig.json
+G:\My Drive\PROGRAMING\C#\2023.02.17\ArrayList\bin\Debug\net7.0\ArrayList.dll
+G:\My Drive\PROGRAMING\C#\2023.02.17\ArrayList\bin\Debug\net7.0\ArrayList.pdb
+G:\My Drive\PROGRAMING\C#\2023.02.17\ArrayList\obj\Debug\net7.0\ArrayList.dll
+G:\My Drive\PROGRAMING\C#\2023.02.17\ArrayList\obj\Debug\net7.0\refint\ArrayList.dll
+G:\My Drive\PROGRAMING\C#\2023.02.17\ArrayList\obj\Debug\net7.0\ArrayList.pdb
+G:\My Drive\PROGRAMING\C#\2023.02.17\ArrayList\obj\Debug\net7.0\ArrayList.genruntimeconfig.cache
+G:\My Drive\PROGRAMING\C#\2023.02.17\ArrayList\obj\Debug\net7.0\ref\ArrayList.dll

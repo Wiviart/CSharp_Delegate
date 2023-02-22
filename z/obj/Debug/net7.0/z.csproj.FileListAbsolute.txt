@@ -1,0 +1,15 @@
+G:\My Drive\PROGRAMING\C#\2023.02.17\z\bin\Debug\net7.0\z.exe
+G:\My Drive\PROGRAMING\C#\2023.02.17\z\bin\Debug\net7.0\z.deps.json
+G:\My Drive\PROGRAMING\C#\2023.02.17\z\bin\Debug\net7.0\z.runtimeconfig.json
+G:\My Drive\PROGRAMING\C#\2023.02.17\z\bin\Debug\net7.0\z.dll
+G:\My Drive\PROGRAMING\C#\2023.02.17\z\bin\Debug\net7.0\z.pdb
+G:\My Drive\PROGRAMING\C#\2023.02.17\z\obj\Debug\net7.0\z.csproj.AssemblyReference.cache
+G:\My Drive\PROGRAMING\C#\2023.02.17\z\obj\Debug\net7.0\z.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\PROGRAMING\C#\2023.02.17\z\obj\Debug\net7.0\z.AssemblyInfoInputs.cache
+G:\My Drive\PROGRAMING\C#\2023.02.17\z\obj\Debug\net7.0\z.AssemblyInfo.cs
+G:\My Drive\PROGRAMING\C#\2023.02.17\z\obj\Debug\net7.0\z.csproj.CoreCompileInputs.cache
+G:\My Drive\PROGRAMING\C#\2023.02.17\z\obj\Debug\net7.0\z.dll
+G:\My Drive\PROGRAMING\C#\2023.02.17\z\obj\Debug\net7.0\refint\z.dll
+G:\My Drive\PROGRAMING\C#\2023.02.17\z\obj\Debug\net7.0\z.pdb
+G:\My Drive\PROGRAMING\C#\2023.02.17\z\obj\Debug\net7.0\z.genruntimeconfig.cache
+G:\My Drive\PROGRAMING\C#\2023.02.17\z\obj\Debug\net7.0\ref\z.dll

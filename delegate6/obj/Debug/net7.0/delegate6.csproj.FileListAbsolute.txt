@@ -1,0 +1,15 @@
+G:\My Drive\PROGRAMING\C#\2023.02.17\delegate6\obj\Debug\net7.0\delegate6.csproj.AssemblyReference.cache
+G:\My Drive\PROGRAMING\C#\2023.02.17\delegate6\obj\Debug\net7.0\delegate6.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\PROGRAMING\C#\2023.02.17\delegate6\obj\Debug\net7.0\delegate6.AssemblyInfoInputs.cache
+G:\My Drive\PROGRAMING\C#\2023.02.17\delegate6\obj\Debug\net7.0\delegate6.AssemblyInfo.cs
+G:\My Drive\PROGRAMING\C#\2023.02.17\delegate6\obj\Debug\net7.0\delegate6.csproj.CoreCompileInputs.cache
+G:\My Drive\PROGRAMING\C#\2023.02.17\delegate6\bin\Debug\net7.0\delegate6.exe
+G:\My Drive\PROGRAMING\C#\2023.02.17\delegate6\bin\Debug\net7.0\delegate6.deps.json
+G:\My Drive\PROGRAMING\C#\2023.02.17\delegate6\bin\Debug\net7.0\delegate6.runtimeconfig.json
+G:\My Drive\PROGRAMING\C#\2023.02.17\delegate6\bin\Debug\net7.0\delegate6.dll
+G:\My Drive\PROGRAMING\C#\2023.02.17\delegate6\bin\Debug\net7.0\delegate6.pdb
+G:\My Drive\PROGRAMING\C#\2023.02.17\delegate6\obj\Debug\net7.0\delegate6.dll
+G:\My Drive\PROGRAMING\C#\2023.02.17\delegate6\obj\Debug\net7.0\refint\delegate6.dll
+G:\My Drive\PROGRAMING\C#\2023.02.17\delegate6\obj\Debug\net7.0\delegate6.pdb
+G:\My Drive\PROGRAMING\C#\2023.02.17\delegate6\obj\Debug\net7.0\delegate6.genruntimeconfig.cache
+G:\My Drive\PROGRAMING\C#\2023.02.17\delegate6\obj\Debug\net7.0\ref\delegate6.dll

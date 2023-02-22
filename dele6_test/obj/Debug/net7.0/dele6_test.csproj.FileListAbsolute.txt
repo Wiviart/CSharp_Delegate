@@ -1,0 +1,15 @@
+G:\My Drive\PROGRAMING\C#\2023.02.17\dele6_test\bin\Debug\net7.0\dele6_test.exe
+G:\My Drive\PROGRAMING\C#\2023.02.17\dele6_test\bin\Debug\net7.0\dele6_test.deps.json
+G:\My Drive\PROGRAMING\C#\2023.02.17\dele6_test\bin\Debug\net7.0\dele6_test.runtimeconfig.json
+G:\My Drive\PROGRAMING\C#\2023.02.17\dele6_test\bin\Debug\net7.0\dele6_test.dll
+G:\My Drive\PROGRAMING\C#\2023.02.17\dele6_test\bin\Debug\net7.0\dele6_test.pdb
+G:\My Drive\PROGRAMING\C#\2023.02.17\dele6_test\obj\Debug\net7.0\dele6_test.csproj.AssemblyReference.cache
+G:\My Drive\PROGRAMING\C#\2023.02.17\dele6_test\obj\Debug\net7.0\dele6_test.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\PROGRAMING\C#\2023.02.17\dele6_test\obj\Debug\net7.0\dele6_test.AssemblyInfoInputs.cache
+G:\My Drive\PROGRAMING\C#\2023.02.17\dele6_test\obj\Debug\net7.0\dele6_test.AssemblyInfo.cs
+G:\My Drive\PROGRAMING\C#\2023.02.17\dele6_test\obj\Debug\net7.0\dele6_test.csproj.CoreCompileInputs.cache
+G:\My Drive\PROGRAMING\C#\2023.02.17\dele6_test\obj\Debug\net7.0\dele6_test.dll
+G:\My Drive\PROGRAMING\C#\2023.02.17\dele6_test\obj\Debug\net7.0\refint\dele6_test.dll
+G:\My Drive\PROGRAMING\C#\2023.02.17\dele6_test\obj\Debug\net7.0\dele6_test.pdb
+G:\My Drive\PROGRAMING\C#\2023.02.17\dele6_test\obj\Debug\net7.0\dele6_test.genruntimeconfig.cache
+G:\My Drive\PROGRAMING\C#\2023.02.17\dele6_test\obj\Debug\net7.0\ref\dele6_test.dll

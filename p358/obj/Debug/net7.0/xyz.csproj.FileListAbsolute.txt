@@ -1,0 +1,15 @@
+G:\My Drive\PROGRAMING\C#\xyz\bin\Debug\net7.0\xyz.exe
+G:\My Drive\PROGRAMING\C#\xyz\bin\Debug\net7.0\xyz.deps.json
+G:\My Drive\PROGRAMING\C#\xyz\bin\Debug\net7.0\xyz.runtimeconfig.json
+G:\My Drive\PROGRAMING\C#\xyz\bin\Debug\net7.0\xyz.dll
+G:\My Drive\PROGRAMING\C#\xyz\bin\Debug\net7.0\xyz.pdb
+G:\My Drive\PROGRAMING\C#\xyz\obj\Debug\net7.0\xyz.csproj.AssemblyReference.cache
+G:\My Drive\PROGRAMING\C#\xyz\obj\Debug\net7.0\xyz.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\PROGRAMING\C#\xyz\obj\Debug\net7.0\xyz.AssemblyInfoInputs.cache
+G:\My Drive\PROGRAMING\C#\xyz\obj\Debug\net7.0\xyz.AssemblyInfo.cs
+G:\My Drive\PROGRAMING\C#\xyz\obj\Debug\net7.0\xyz.csproj.CoreCompileInputs.cache
+G:\My Drive\PROGRAMING\C#\xyz\obj\Debug\net7.0\xyz.dll
+G:\My Drive\PROGRAMING\C#\xyz\obj\Debug\net7.0\refint\xyz.dll
+G:\My Drive\PROGRAMING\C#\xyz\obj\Debug\net7.0\xyz.pdb
+G:\My Drive\PROGRAMING\C#\xyz\obj\Debug\net7.0\xyz.genruntimeconfig.cache
+G:\My Drive\PROGRAMING\C#\xyz\obj\Debug\net7.0\ref\xyz.dll
